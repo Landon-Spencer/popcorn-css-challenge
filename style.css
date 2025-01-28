@@ -3,3 +3,24 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+header {
+  background-color: #FFDBAA;
+}
+
+h1 {
+  color: #553100;
+}
+
+body {
+  background-color: #D4A76A;
+}
+
+button {
+  background-color: #805215;
+  color: #ffffff;
+}
+
+.infoLinks {
+  display: flex;
+}
